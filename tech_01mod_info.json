@@ -1,0 +1,24 @@
+{
+	"id":"Seafood",
+	"name":"海鲜船包 [Seafood Shipworks]",
+	"author":"LILI & ZeroXenon",
+	"version":"0.0.8", 
+	"description":"添加了一些原版风格的舰船。鸣谢详请credits and changelogs",
+	"gameVersion":"0.97a-RC11",
+	"jars":["jars/SFS.jar"],
+	"modPlugin":"data.scripts.SFSModPlugin",
+	"dependencies": [
+		{
+			"id": "lw_lazylib",
+			"name": "LazyLib",
+		},
+		{
+			"id": "shaderLib",
+			"name": "GraphicLib",
+		},
+		{
+			"id": "MagicLib",
+			"name": "MagicLib",
+		}
+	]
+}
